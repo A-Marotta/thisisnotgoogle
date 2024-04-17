@@ -1,0 +1,15 @@
+{
+  "name": "Keaz",
+  "supportEmail": "amarotta@ct.com.au",
+  "version": "0.0.1",
+  "items": [
+    {
+      "url": "https://a-marotta.github.io/thisisnotgoogle/keaz.html",
+      "path": "",
+      "menuName": {
+        "en": "Keaz"
+      },
+      "icon": "https://a-marotta.github.io/thisisnotgoogle/images/icon.svg"
+    }
+  ]
+}
